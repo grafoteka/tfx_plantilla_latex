@@ -2,10 +2,10 @@
 
 /*******************************************************************************************
 *
-* Jorge De León Rivas
+* Maintainer: Jorge De León Rivas
 * jorge.deleon@upm.es
 * May/05/2018
-*
+* Author: Raúl Cebolla
 ********************************************************************************************/
 
 Este es el directorio de trabajo para escribir una memoria TFG/TFM.
